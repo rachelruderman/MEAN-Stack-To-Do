@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rachelruderman/MEAN-Stack-To-Do#readme",
   "dependencies": {
+    "angular2": "^2.0.0-beta.21",
     "body-parser": "^1.17.2",
     "ejs": "^2.5.7",
     "express": "^4.15.3",
